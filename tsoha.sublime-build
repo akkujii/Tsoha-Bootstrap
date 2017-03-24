@@ -1,0 +1,8 @@
+{
+  "cmd": ["bash", "/Users/akkuJii/Documents/Tsoha-Bootstrap/deploy.sh"],
+  "selector" : "source.shell"
+}
+
+{
+	"shell_cmd": "make"
+}
